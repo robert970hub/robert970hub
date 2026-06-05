@@ -29,7 +29,6 @@
 | Getting Started with Cisco Packet Tracer | cd42fad5-1349-4de2-b044-657aeccb85e7 | Jun 2026 |
 | Introduction to IoT & Digital Transformation | 4ff9bc7d-bc40-4e1d-b8b4-b2c7d1f374cb | Jun 2026 |
 
-🔗 Verify at: https://www.netacad.com/certificates
 
 ### 🏫 Jubilee College
 | Qualification | Grade | Date |
