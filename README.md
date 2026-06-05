@@ -4,7 +4,6 @@
 | Fortinet Certified Associate in Cybersecurity (FCA) | 8800545236RP | April 2028 |
 | Fortinet Certified Fundamentals in Cybersecurity (FCF) | 4929072605RP | April 2028 |
 
-🔗 Verify at: https://training.fortinet.com/admin/tool/certificate/index.php
 
 ### 🎓 Fortinet Training Courses (ISC2 CPE — 40 hrs total)
 | Course | Hours | Domain | Date |
