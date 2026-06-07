@@ -1,52 +1,53 @@
-# Hi 👋, I'm Philip Robert
+# <div align="center">🛡️ PHILIP ROBERT 🛡️</div>
 
-### 🔐 Cybersecurity Analyst | SOC Analyst | Network Security Enthusiast
+<div align="center">
 
+# Cybersecurity Analyst | SOC Analyst | Ethical Hacker | Penetration Tester
+
+### Defending Networks • Detecting Threats • Securing Infrastructure
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am an aspiring Cybersecurity Analyst with hands-on experience in Security Operations, Threat Detection, Ethical Hacking, Penetration Testing, Network Security, and IT Support.
+
+My goal is to build a career in:
 <img align="right" alt="Cybersecurity" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3c2s4Y3Y0bGVwM3NhNnB4d3U5c3E0cDh4MnQ0b2x6a3p6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+* 🔐 Cybersecurity Analysis
+* 🛡️ Security Operations Center (SOC)
+* 🎯 Threat Hunting
+* 🔍 Digital Forensics
+* 🚨 Incident Response
+* 🌐 Network Security Engineering
+* ⚔️ Ethical Hacking & Penetration Testing
+* ☁️ Cloud Security
 
-* 🌍 Based in Nairobi, Kenya
-* 🛡️ Fortinet Certified Associate (FCA)
-* 🛡️ Fortinet Certified Fundamentals (FCF)
-* 🔵 Cisco Junior Cybersecurity Analyst
-* 🔵 Cisco Ethical Hacker
-* ☁️ Currently studying AWS Cloud Practitioner
-* 🎯 Goal: Become a SOC Analyst / Cybersecurity Engineer
-
----
-
-## 🚀 About Me
-
-I am passionate about cybersecurity, network security, incident response, threat detection, and SOC operations.
-
-My focus areas include:
-
-* Threat Detection & Analysis
-* SOC Monitoring
-* SIEM Technologies
-* Ethical Hacking
-* FortiGate Firewalls
-* Network Security
-* Incident Response
-* Packet Analysis
-* Cloud Security
+Currently expanding my skills through Fortinet, Cisco Networking Academy, home labs, and practical cybersecurity projects.
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-### Fortinet
+## 🛡️ Fortinet Certified
 
-✅ Fortinet Certified Associate in Cybersecurity (FCA)
+### Fortinet Certified Associate in Cybersecurity (FCA)
 
 Credential ID: 8800545236RP
 
-✅ Fortinet Certified Fundamentals in Cybersecurity (FCF)
+Valid Until: April 2028
+
+### Fortinet Certified Fundamentals in Cybersecurity (FCF)
 
 Credential ID: 4929072605RP
 
+Valid Until: April 2028
+
 ---
 
-### Cisco Networking Academy
+## 🔵 Cisco Networking Academy
 
 ✅ Junior Cybersecurity Analyst Career Path
 
@@ -64,110 +65,234 @@ Credential ID: 4929072605RP
 
 ✅ Network Addressing & Basic Troubleshooting
 
-✅ Cisco Packet Tracer
+✅ Getting Started with Cisco Packet Tracer
 
 ✅ Introduction to IoT & Digital Transformation
 
 ---
 
-## 💻 Technical Skills
+# 🎓 Education
 
-### Cybersecurity
+## Jubilee College
 
-```text
-SOC Monitoring
-Incident Detection
-Threat Hunting
-Threat Intelligence
-MITRE ATT&CK
-SIEM Monitoring
-Splunk
-Wireshark
-Endpoint Security
-EDR
-FortiGate Firewalls
-VPN Security
-```
+### Web-Based Programming (HTML, CSS, PHP)
 
-### Networking
+🏅 Distinction
 
-```text
-Cisco Networking
-TCP/IP
-DNS
-DHCP
-Subnetting
-Routing & Switching
-VPN Technologies
-SD-WAN
-Network Troubleshooting
-Packet Tracer
-```
+### Computer Applications
 
-### Systems & Support
-
-```text
-Windows Administration
-IT Support
-Hardware Troubleshooting
-Software Troubleshooting
-VirtualBox
-Documentation
-Help Desk Support
-```
+🏅 Distinction
 
 ---
 
-## 📂 Featured Projects
+# 🔐 Cybersecurity Skills
 
-### 🛡️ SOC Home Lab
+### Security Operations
 
-Virtual SOC environment using VirtualBox.
+* SOC Monitoring
+* Security Event Analysis
+* Incident Detection
+* Incident Escalation
+* Threat Intelligence
+* Threat Hunting
+* Alert Investigation
+* Security Awareness
 
-### 📊 Splunk Security Monitoring
+### Ethical Hacking & Penetration Testing
 
-Log analysis and threat detection.
+* Ethical Hacking Fundamentals
+* Penetration Testing Methodology
+* Vulnerability Assessment
+* Reconnaissance
+* Enumeration
+* Exploitation Concepts
+* Privilege Escalation Concepts
+* Web Application Testing Fundamentals
+* Network Security Testing
 
-### 🌐 Enterprise Network Design
+### Threat Detection
 
-Cisco Packet Tracer simulations.
+* MITRE ATT&CK Framework
+* Threat Analysis
+* IOC Identification
+* Attack Surface Analysis
+* Security Log Investigation
 
-### 🔥 FortiGate Security Lab
+### SIEM & Monitoring
 
-Firewall rules, VPNs, and security policies.
+* Splunk SIEM
+* Log Analysis
+* Event Correlation
+* Security Monitoring
 
-### 🔍 Wireshark Analysis
+### Endpoint Security
 
-Packet capture and investigation.
-
----
-
-## 📈 GitHub Stats
-
-(Insert GitHub Stats Card Here)
-
----
-
-## 🎯 Current Goals
-
-* AWS Cloud Practitioner
-* Advanced Threat Hunting
-* Incident Response
-* Security Operations Center (SOC)
-* Cloud Security
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/robert-philip-011707188/
-
-Email: [your-email@example.com](mailto:your-email@example.com)
-
-Location: Nairobi, Kenya
-
-GitHub: Your GitHub URL
+* Endpoint Protection
+* Endpoint Detection & Response (EDR)
+* Malware Awareness
+* Security Controls
 
 ---
 
-⭐ "Continuous learning and hands-on practice are the foundations of cybersecurity excellence."
+# 🌐 Networking Skills
+
+* Cisco Networking
+* Router Configuration
+* Switch Configuration
+* VLAN Concepts
+* TCP/IP
+* DNS
+* DHCP
+* NAT
+* Routing & Switching
+* VPN Technologies
+* SD-WAN Fundamentals
+* IP Addressing
+* Subnetting
+* Network Troubleshooting
+
+---
+
+# 💻 Systems & Infrastructure
+
+* Windows Administration
+* Windows Security
+* Active Directory Fundamentals
+* ICT Infrastructure Management
+* Hardware Troubleshooting
+* Software Troubleshooting
+* VirtualBox
+* System Documentation
+* Technical Support
+
+---
+
+# 🔬 Security Tools
+
+### Network Security
+
+* Wireshark
+* Cisco Packet Tracer
+* FortiGate Firewall
+
+### Security Operations
+
+* Splunk SIEM
+* Security Event Monitoring
+
+### Virtualization
+
+* VirtualBox
+
+### Operating Systems
+
+* Windows
+* Linux (Learning & Labs)
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ SOC Home Lab
+
+Built a virtual SOC environment for monitoring security events, investigating alerts, and learning incident response workflows.
+
+---
+
+## 🔍 Wireshark Packet Analysis Lab
+
+Captured and analyzed network traffic to identify protocols, suspicious activity, and troubleshooting opportunities.
+
+---
+
+## 🌐 Cisco Enterprise Network Lab
+
+Designed and configured enterprise network simulations using Cisco Packet Tracer.
+
+---
+
+## 🔥 FortiGate Firewall Lab
+
+Configured:
+
+* Security Policies
+* VPN Connections
+* Access Control Rules
+* Traffic Inspection
+
+---
+
+## 📊 Splunk SIEM Lab
+
+Performed:
+
+* Log Analysis
+* Event Correlation
+* Threat Detection
+* Alert Investigation
+
+---
+
+# 📚 Fortinet Advanced Training
+
+### ISC2 Continuing Professional Education Credits
+
+Total: 40 Hours
+
+* FortiOS 7.6 Administrator
+* OT Security 7.6 Architect
+* SD-WAN 7.6 Enterprise Administrator
+* Public Cloud Security Architect
+* FortiAnalyzer Analyst
+* FortiSASE Core Administrator
+
+---
+
+# ☁️ Currently Learning
+
+* AWS Certified Cloud Practitioner
+* Cloud Security Fundamentals
+* Threat Hunting Methodologies
+* Security Operations Engineering
+* Linux Administration
+* Advanced Penetration Testing Concepts
+
+---
+
+# 🎯 Career Interests
+
+* Cybersecurity Analyst
+* SOC Analyst
+* Security Operations Engineer
+* Incident Response Analyst
+* Threat Hunter
+* Network Security Engineer
+* Ethical Hacker
+* Penetration Tester
+* Security Consultant
+
+---
+
+# 📫 Contact
+
+📍 Nairobi, Kenya
+
+📧 robertphilip32@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/robert-philip-011707188/
+
+💻 GitHub: https://github.com/robert970hub/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building cybersecurity labs, analyzing network traffic, investigating threats, and continuously learning new security technologies.
+
+---
+
+<div align="center">
+
+### 🔐 "Security is a journey of continuous learning, vigilance, and improvement."
+
+</div>
