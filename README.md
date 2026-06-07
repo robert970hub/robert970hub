@@ -22,7 +22,7 @@ Location    : Nairobi, Kenya 🇰🇪
 Role        : Junior SOC Analyst | Ethical Hacker | Network Technician | IT Support
 Certifications: 21 (Fortinet FCA/FCF + Cisco Networking Academy)
 LinkedIn Skills: 87 Verified via Credly Badges
-Experience  : 2+ Years ICT & Cybersecurity
+Experience  : 4+ Years ICT & Cybersecurity
 Lab         : Active Home SOC Lab (Splunk · Wireshark · FortiGate · MITRE ATT&CK)
 Learning    : AWS Cloud Practitioner | SigmaHQ Detection Rules
 Open To     : Junior SOC Analyst · Cybersecurity Analyst · NOC · IT Support · Help Desk
